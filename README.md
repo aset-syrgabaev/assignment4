@@ -180,19 +180,6 @@ The project defines a **Metrics** interface that tracks algorithmic operations:
 *(data/results_scc.png)*
 <img width="944" height="809" alt="image" src="https://github.com/user-attachments/assets/427dd3ea-981d-4d79-ae29-02936c37cee7" />
 
-
-### System Flow Diagram
-
-*(data/A_flowchart_diagram_on_graph_processing_workflows_.png)*
-
-### Project Structure Diagram
-
-*(data/A_flowchart-style_digital_diagram_showcases_the_st.png)*
-
-### Detailed Architecture Diagram
-
-*(data/A_flowchart_diagram_in_the_image_visually_depicts_.png)*
-
 ---
 
 ## 8. Running the Project
