@@ -1,7 +1,7 @@
 # Assignment 4 — Smart City / Smart Campus Scheduling
 
 **Student:** Aset Syrgabaev
-**Course:** RIAA 2310 — Design and Analysis of Algorithms
+**Course:** Design and Analysis of Algorithms
 **Instructor:** Aidana Aidynkyzy
 **Repository:** [GitHub Repository](https://github.com/aset-syrgabaev/assignment4-smart-city)
 
