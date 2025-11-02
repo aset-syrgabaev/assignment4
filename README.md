@@ -154,24 +154,33 @@ The project defines a **Metrics** interface that tracks algorithmic operations:
 ### Runtime vs Number of Nodes
 
 *(data/results_time.png)*
-<img width="944" height="674" alt="image" src="https://github.com/user-attachments/assets/0952b72a-fcb9-423e-9766-615b792070d9" />
+<img width="944" height="674" alt="image" src="https://github.com/user-attachments/assets/ca8ae94b-35c8-412f-b3de-d02bff668249" />
+
 
 
 ### Operations Count
 
 *(data/results_ops.png)*
+<img width="944" height="809" alt="image" src="https://github.com/user-attachments/assets/472c9df5-c9c0-4d6f-8e30-b6fcf65ae16e" />
+
 
 ### Relaxations per Dataset
 
 *(data/results_relaxations.png)*
+<img width="944" height="809" alt="image" src="https://github.com/user-attachments/assets/9e3021eb-0f55-4b5e-9ab5-c3eb339f7bcf" />
+
 
 ### Graph Density vs Time
 
 *(data/results_density.png)*
+<img width="944" height="809" alt="image" src="https://github.com/user-attachments/assets/dfe3dd82-0698-4111-839e-e0ebffa5befe" />
+
 
 ### SCC Count vs Nodes
 
 *(data/results_scc.png)*
+<img width="944" height="809" alt="image" src="https://github.com/user-attachments/assets/427dd3ea-981d-4d79-ae29-02936c37cee7" />
+
 
 ### System Flow Diagram
 
