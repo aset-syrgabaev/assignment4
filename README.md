@@ -52,10 +52,7 @@ assignment4-smart-city/
 │   ├── results_ops.png
 │   ├── results_relaxations.png
 │   ├── results_density.png
-│   ├── results_scc.png
-│   ├── A_flowchart_diagram_on_graph_processing_workflows_.png
-│   ├── A_flowchart-style_digital_diagram_showcases_the_st.png
-│   └── A_flowchart_diagram_in_the_image_visually_depicts_.png
+│   └── results_scc.png
 └── src/
     ├── main/java/graph/
     │   ├── scc/
