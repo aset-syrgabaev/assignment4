@@ -245,13 +245,21 @@ All tests pass under `mvn test`.
 ## 11. Compliance with Assignment
 
 ✅ Tarjan’s SCC implemented
+
 ✅ Condensation DAG built
+
 ✅ Kahn’s Topological Sort implemented
+
 ✅ DAG Shortest and Longest Path algorithms implemented
+
 ✅ Metrics tracked
+
 ✅ Nine datasets created
+
 ✅ JUnit tests written
+
 ✅ Report and analysis included in README
+
 ✅ GitHub repository structured and documented
 
 ---
