@@ -89,8 +89,7 @@ JSON input → JsonLoader → DiGraph → Tarjan SCC
 → DAG Shortest Path / DAG Longest Path → Results Output
 ```
 
-**Diagram:**
-*(Saved in /data/A_flowchart_diagram_on_graph_processing_workflows_.png)*
+
 
 ---
 
