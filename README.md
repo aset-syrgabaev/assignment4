@@ -154,6 +154,8 @@ The project defines a **Metrics** interface that tracks algorithmic operations:
 ### Runtime vs Number of Nodes
 
 *(data/results_time.png)*
+<img width="944" height="674" alt="image" src="https://github.com/user-attachments/assets/0952b72a-fcb9-423e-9766-615b792070d9" />
+
 
 ### Operations Count
 
